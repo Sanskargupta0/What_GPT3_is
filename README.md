@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+To view the live version of [What_GPT3_Is], you can visit [this link](https://what-gpt-3-is-sanskargupta0.vercel.app/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
